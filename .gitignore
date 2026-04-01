@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Base de datos local de Docker (¡Súper importante!)
+oauth05_mysql_data/
+
+# Archivos de configuración de VS Code
+.vscode/
